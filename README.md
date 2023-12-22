@@ -1,3 +1,3 @@
 # demo
-First git repo
+First git repo.
 Author- Ankit Borbora
